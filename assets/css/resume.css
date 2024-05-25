@@ -1,0 +1,100 @@
+img{
+    height: 200px;
+    width: 150px;
+}
+
+body{
+    background: linear-gradient(to bottom, #33ccff 25%, #ccffff 72%);
+}
+.intro{
+    text-align: center;
+    font-size: 30px;
+}
+
+.main{
+    text-align: center;
+}
+
+hr {
+    font-weight: bold;
+}
+
+.tp, .sykes, .concentrix, .telus, .edu{
+    float: left;
+    width: 250px;
+    height: 250px;
+ }
+
+ .tele, .sa, .cnx, .tip{
+    height: 250px;
+    width: 200px;
+ }
+
+.company {
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
+    color: brown;
+}
+
+.center{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 35px;
+}
+
+.ref, a{
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+th {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+td {
+    font-size: 23px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.year{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+}
+
+table{
+    padding-bottom: 50px;
+}
+
+a{
+  text-align: center;
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+}
+
+.role {
+    color:#875b32;
+    font-weight: bold;
+}
+
+.educ {
+    float: left;
+    width: 10px;
+    height:30px;
+}
+
+.feu, .ucb, .usc, .hs{
+    font-size: 30px;
+}
+
+.fit, .uc, .tc, .cnhs{
+    margin-right: 15px;
+    height: 250px;
+    width: 200px;
+}
