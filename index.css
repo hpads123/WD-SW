@@ -1,1 +1,41 @@
+.head{
+    text-align: center;
+    padding-top: 23px;
+    padding-bottom: 100px;
 
+}
+
+body{
+margin-left: 30px;
+margin-right: 20px;
+background: linear-gradient(to top, #99ffcc 22%, #33ccff 67%);
+background: size 600px;
+height: 100vh;
+}
+
+a:hover{
+    color: white;
+    background-color: black;
+    background-size: 50px;
+}
+a{
+    font-size: 30px;
+    text-decoration: none;
+    color: black;
+}
+img{
+    float: left;
+    height: 400px;
+    width: 350px;
+    border-radius: 50%;
+}
+
+.intro{
+    text-align: left;
+    margin-left: 500px;
+    font-size: 28px;
+}
+
+.start{
+    font-size: 35px;
+}
