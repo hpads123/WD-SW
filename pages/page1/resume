@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+    <link rel="stylesheet" href="resume.css">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RESUME</title>
+</head>
+<body>
+    <div class="main">
+        <img src="photo.jpeg">
+        <br>
+        <hr>
+        <div class="intro">
+            <p> <br>
+                HANZEL PADILLA<br>
+                BLK 22 LOT 24<br>
+                PINAGSAMA VILLAGE PHASE 2<br>
+                TAGUIG CITY, METRO MANILA<br>
+                padillasmed2017@gmail.com<br>
+            </p>
+            </div>
+        </div>
+    <br>
+ <h1>WORK EXPERIENCE:</h1>
+<div class="tp">
+<img class="tele" src="tp.jpeg">
+</div>
+<p class="company">TELEPERFORMANCE</p>
+<p class="role">TECHNICAL SUPPORT REPRESENTATIVE</p>
+<p class="location"> 3/F Insular Bldg.<br>
+    Cebu Business Park, Cebu City 6000
+    </p>
+<p class="tenure"> 22 April 2015 to 19 July 2015 </p>
+<ul>
+    <li>provide information and advice the best ways to manage customer’s account</li>
+    <li>assist customer basic and higher technical troubleshooting for their cable, DSL and home phone services</li>
+    <li>promote sales and service</li>
+</ul>
+<br><br><br>
+<div class="sykes">
+    <img  class="sa" src="sykes.jpeg">
+</div>
+    <p class="company"> SYKES</p>
+    <p class="role">CUSTOMER SERVICE ASSOCIATE</p>
+    <p class="location"> F. Cabahug St.,<br>
+    Cebu Business Park, Cebu City 6000
+    </p>
+<p class="tenure"> 23 November 2015 to 19 April 2017 </p>
+    <ul>
+        <li>provide customer information about best practices to manage their account/s</li>
+        <li>assist basic trouble shooting for customer’s phone service (SMS, voice, data)</li>
+        <li>promote sales and service</li>
+    </ul>
+<br><br><br>
+    <div class="concentrix">
+        <img  class="cnx" src="cnx.png">
+    </div>
+        <p class="company"> CONCENTRIX</p>
+        <p class="role">TECHNICAL SUPPORT REPRESENTATIVE</p>
+        <p class="location"> i2 Asiatown, IT Park,<br>
+        Lahug, Cebu City 6000
+        </p>
+    <p class="tenure"> 9 May 2018 to 28 February 2019 </p>
+        <ul>
+            <li>provide information and advice the best ways to manage customer’s account</li>
+            <li>assist customer basic and higher technical troubleshooting for their cable, DSL, GPON and home phone services</li>
+            <li>promote sales and service</li>
+        </ul>
+<br><br><br>
+<div class="telus">
+        <img  class="tip" src="telus.jpeg">
+    </div>
+        <p class="company"> TELUS</p>
+        <p class="role">TECHNICAL SUPPORT REPRESENTATIVE</p>
+        <p class="location"> McKinley Exchange Center,<br>
+            Makati, Metro Manila
+        </p>
+    <p class="tenure"> 18 May 2022 to June 30, 2023 </p>
+        <ul>
+            <li>provide assistance in account recovery for email accounts</li>
+            <li>assist troubleshooting with account access (webmail or mail platform applications)</li>
+            <li>promote sales and service</li>
+        </ul>
+<br><br><br>
+<div class="concentrix">
+    <img  class="cnx" src="cnx.png">
+</div>
+    <p class="company"> CONCENTRIX</p>
+    <p class="role">EMAIL SUPPORT ADVISOR</p>
+    <p class="location">SLC Building Ayala Avenue cor. VA Rufino St.,<br>
+        Makati CIty
+    </p>
+<p class="tenure"> 15 August 2023 to 30 April 2024</p>
+    <ul>
+        <li>provide information and advice the best ways to manage organizer’s events</li>
+        <li>assist organizer and answer inquiries regarding the status of their payout and their events</li>
+        <li>manages the content of their events according to the organization’s guidelines in creating and organizing events</li>
+        <li>review complaints of attendees and reevaluate the status of their events and manually process payouts as needed</li>
+    </ul>
+<hr>
+<br>
+ <h1>EDUCATIONAL BACKGROUND: </h1>
+
+ <div class="edu">
+    <img class="fit" src="feu.jpeg">
+</div>
+ <div class="feu">
+    <p class="year">2022 - present</p>
+    <p>FAR EASTERN UNIVERSITY-INSTITUTE OF TECHNOLOGY</p>
+    <p>Padre Paredes St.,<br>Sampaloc, Manila 1015<br>
+        BS Information Technology
+    </p>
+    </div>
+<br>
+<div class="edu">
+    <img class="uc" src="uc.png">
+</div>
+ <div class="ucb">
+    <p class="year">2017 - 2019</p>
+    <p>UNIVERSITY OF CEBU-BANILAD</p>
+    <p>MJ Cuenco St., <br>Banilad, Cebu City 6000<br>
+        BS Information Technology
+    </p>
+    </div>
+    <br>
+    <div class="edu">
+        <img class="tc" src="usc.png">
+    </div>
+     <div class="usc">
+        <p class="year">2013 - 2014</p>
+        <p>UNIVERSITY OF SAN CARLOS</p>
+        <p>Nasipit, Talamban, <br>Cebu City 6000<br>
+            BSEd Biology and Chemistry
+        </p>
+        </div>
+<br>
+<div class="edu">
+    <img class="cnhs" src="cnhs.jpeg">
+</div>
+ <div class="hs">
+    <p class="year">2013 - 2014</p>
+    <p>UNIVERSITY OF SAN CARLOS</p>
+    <p>Nasipit, Talamban, <br>Cebu City 6000<br>
+        BSEd Biology and Chemistry
+    </p>
+    </div>
+        <br><br>
+<p class="ref">CHARACTER REFERENCES </p>
+<table class="center">
+    <th>NAME</th>
+    <th>POSITION</th>
+    <th>CONTACT NUMBER</th>
+    <tr>
+<td>ABEGAIL COTONER</td>
+<td>TECHNICAL SUPPORT REPRESENTATIVE</td>
+<td>09685855928</td>
+</tr>
+<br>
+<tr>
+<td>NARCISA ERMAC</td>
+<td>BANKING SUPPORT SPECIALIST </td>
+<td>09566484613</td>
+</tr>
+<br>
+<tr>
+<td>NINA LIZA MACARAYA</td>
+<td>TEAM LEADER</td>
+<td>09324503375</td>
+</tr>
+</table>
+<br><br><br>
+
+    <a href="#">click here to go back to the home page!</a>
+
+
+</body>
+</html>
