@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src=".SW2/assets/feu.jpeg" alt="feu tech" width="130" height="100">
+    <img src="https://www.google.com/search?q=feu+tech+logo&sca_esv=bf0162ff70821237&sca_upv=1&rlz=1C5CHFA_enPH921PH921&sxsrf=ADLYWII__NWQYlj21T17e7aPF42eEM1uaA%3A1716653129269&ei=SQxSZoWAEOeTseMPrN236Ak&ved=0ahUKEwjFyOOfl6mGAxXnSWwGHazuDZ0Q4dUDCBA&uact=5&oq=feu+tech+logo&gs_lp=Egxnd3Mtd2l6LXNlcnAiDWZldSB0ZWNoIGxvZ28yChAjGIAEGCcYigUyBRAAGIAEMgsQABiABBiGAxiKBTILEAAYgAQYhgMYigUyCxAAGIAEGIYDGIoFMgsQABiABBiGAxiKBTIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRIlRBQ3AhY3Q1wAXgBkAEAmAFZoAGZA6oBATW4AQPIAQD4AQGYAgSgAokCwgIKEAAYsAMY1gQYR8ICDRAAGIAEGLADGEMYigXCAg0QLhiABBiwAxhDGIoFwgIHEAAYgAQYDcICBhAAGAcYHsICCBAAGAcYCBgewgIGEAAYDRgewgIHECMYsAIYJ5gDAIgGAZAGCpIHATSgB_cg&sclient=gws-wiz-serp#vhid=_5pxdHrlZ66SpM&vssid=l" alt="feu tech" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">Title</h3>
